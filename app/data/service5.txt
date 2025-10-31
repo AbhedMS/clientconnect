@@ -1,0 +1,70 @@
+**Private Capital – Evolver’s AI-Powered Execution Layer for Investment Lifecycle**
+
+**Overview**  
+Evolver delivers an AI-powered execution engine that embeds a firm’s investment thesis directly into portfolio operations. This ensures strategy is realized with unmatched speed, precision, and discipline across the entire private capital lifecycle.
+
+---
+
+**Performance Metrics**
+- 10x faster due diligence  
+- 70% reduction in execution time  
+- 50% improvement in operational KPIs
+
+---
+
+**Strategic Context**  
+The traditional value creation playbook is being disrupted by AI-native competitors. To stay competitive, both portfolio company operations and private capital firm management models must evolve. Evolver enables this transformation by embedding an intelligence layer that turns strategy into execution—continuously and at scale.
+
+---
+
+**Core Capabilities**
+- Transforms static value creation playbooks into live, intelligent workflows.
+- Orchestrates complex, multi-persona workflows from diligence to exit on a single platform.
+- Models the entire value chain to identify and execute high-impact interventions.
+- Translates firm-level strategy into role-specific actions for portfolio company teams.
+- Synthesizes cross-functional signals to anticipate risks and prescribe corrective actions.
+
+---
+
+**Navigator – Intelligent Operating System for Value Creation**  
+Navigator is Evolver’s platform that acts as the living, connected tissue for a firm’s value creation strategy. It’s not static software—it’s a system of intelligent agents that embed investment theses directly into operations.
+
+---
+
+**Lifecycle Modules**
+
+1. **Due Diligence – AI-Powered Conviction**  
+   - Validates assumptions using market data, competitive benchmarks, and institutional knowledge.  
+   - Scales investment experience across deal teams.  
+   - Flags potential deal-breakers early.
+
+2. **Strategize – Value Creation Blueprint**  
+   - Cascades strategic objectives into measurable actions across functions.  
+   - Aligns firm vision with portfolio execution.  
+   - Converts thesis into a living blueprint for success.
+
+3. **Transform – Intelligent Orchestration**  
+   - Executes major changes like post-merger integrations and cost initiatives.  
+   - Monitors progress and flags deviations.  
+   - Ensures cross-functional plays execute on time and budget.
+
+4. **Grow – AI-Powered Growth**  
+   - Connects market signals with operational capabilities.  
+   - Guides strategic decisions.  
+   - Turns growth into a predictable, data-driven engine.
+
+5. **Exit – Continuous Exit Readiness**  
+   - Maintains real-time views of company value and performance.  
+   - Generates comprehensive, auditable materials on demand.  
+   - Keeps portfolio companies “exit-ready” at all times.
+
+---
+
+**Results & Differentiators**
+
+- **Velocity**: Shortens diligence cycles and accelerates post-close transformation.  
+- **Clarity**: Replaces siloed spreadsheets with a unified knowledge graph.  
+- **Alignment**: Cascades strategy from firm to front line.  
+- **Impact**: Drives measurable financial outcomes by identifying risks, executing opportunities, and optimizing for exit.
+
+Navigator integrates seamlessly with existing processes, turning investment theses into AI-powered competitive advantages.

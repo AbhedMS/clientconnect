@@ -1,0 +1,65 @@
+**ARIA for Tax – Evolver’s AI-Powered Tax Intelligence**
+
+**Overview**  
+ARIA is Evolver’s AI-powered intelligence layer designed to transform the entire tax lifecycle. It scales with business needs, evolves with every review cycle, and turns tax into a strategic advantage. It supports tax teams from setup to close, enabling faster operations, compliance, and scalable growth.
+
+---
+
+**Key Benefits**
+- **ROI on First Review Cycle**: Recover overpaid tax revenue and avoid audit penalties.
+- **Reduction in Review Time**: ARIA significantly accelerates audit cycles without compromising quality.
+- **Zero Compliance Issues**: Automatically analyzes millions of data rows to uncover deep insights.
+
+---
+
+**Core Capabilities**
+- Reconciles tax filings to transactional data with full transparency.
+- Uses advanced AI to analyze every transaction—not just samples.
+- Automates:
+  - Tax audit readiness reports
+  - Tax look-back reviews
+  - Tax research for new operations
+- Integrates with SAP, Oracle, NetSuite, Ariba, and non-ERP systems.
+- Minimizes financial statement impacts from overpaid/underpaid taxes.
+
+---
+
+**Performance Outcomes**
+- **Speed**: Cuts review cycles from quarters to weeks using intelligent alerts.
+- **Insights**: Provides tailored determinations that outperform generic rule sets.
+- **Scale**: Handles millions of rows with complex tax logic.
+- **Impact**: Enables real-time savings and peace of mind through ongoing use tax automation.
+
+---
+
+**ARIA Tax Modules**
+
+1. **Tax Audit Readiness**  
+   - Delivers audit readiness in weeks.
+   - Analyzes 100% of transactional data across jurisdictions.
+   - Processes both structured and unstructured documents (invoices, POs, exemption certificates).
+
+2. **Tax Look Back Review**  
+   - Automates comprehensive retrospective reviews.
+   - Handles direct/indirect purchases and non-PO transactions.
+   - Eliminates reliance on spreadsheets and sampling.
+
+3. **Tax Classification Manager**  
+   - Ensures accurate tax classification from product/service inception.
+   - Supports SKU launches and legacy cleanup.
+   - Embeds tax logic into the product lifecycle.
+
+4. **Tax Research Assistant**  
+   - Provides instant, legally reasoned answers.
+   - Uses curated, version-controlled content (legislation, guidance, internal policy).
+   - Trained specifically on jurisdictional tax rules with full legal traceability.
+
+5. **Tax Cycle Manager**  
+   - Automates monthly, quarterly, and annual tax closing.
+   - Reviews large transactional reports, reconciles accounts, validates tax logic.
+   - Surfaces anomalies and missed accruals without manual spreadsheets or checklists.
+
+---
+
+**Scalability**
+ARIA supports end-to-end tax review across all tax types. It transforms how businesses manage classification, audits, reconciliations, and return preparation—built on explainable AI, not legacy logic.

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cold Email Generator</title>
+  <link rel="stylesheet" href="../static/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📧 Cold Email Generator</h1>
+    <form id="emailForm" action="/" method="post">
+      <input
+        type="url"
+        id="clientUrl"
+        name="clientUrl"
+        placeholder="Enter client's official website URL"
+        required
+      />
+      <button type="submit">Generate Custom Mail</button>
+    </form>
+
+    <div class="output-wrapper">
+      <div class="output-box left-box" id="descriptionOutput"></div>
+      <div class="output-box right-box">
+        <div id="emailOutput"></div>
+        <button id="copyButton">Copy Email</button>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    document.getElementById('emailForm').addEventListener('submit', async function (e) {
+      e.preventDefault();
+      const url = document.getElementById('clientUrl').value;
+
+      try {
+        const response = await fetch('/', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ url }),
+        });
+
+
+        const data = await response.json();
+        document.getElementById('descriptionOutput').textContent = data.description;
+        document.getElementById('emailOutput').textContent = data.email || "Email content will appear here.";
+      } catch (error) {
+        document.getElementById('descriptionOutput').textContent = 'Error fetching description.';
+        document.getElementById('emailOutput').textContent = '';
+      }
+    });
+
+    document.getElementById('copyButton').addEventListener('click', function () {
+      const emailText = document.getElementById('emailOutput').textContent;
+      navigator.clipboard.writeText(emailText).then(() => {
+        alert('Email content copied to clipboard!');
+      }).catch(err => {
+        alert('Failed to copy text: ' + err);
+      });
+    });
+
+  </script>
+</body>
+</html>

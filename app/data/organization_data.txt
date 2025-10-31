@@ -1,0 +1,102 @@
+Evolver is a company that specializes in AI-powered enterprise intelligence. Their core business involves helping organizations enhance operations, finance, and compliance through advanced artificial intelligence, domain expertise, and continuous learning systems.
+Here’s what the firm focus on:
+- Enterprise AI Solutions: They build AI systems tailored to business needs, aiming to improve workflows, strategy, and decision-making.
+- Operational Efficiency: Evolver’s tools are designed to optimize business operations and drive material outcomes.
+- Finance & Compliance: They offer AI solutions that support financial analysis and regulatory compliance.
+- Human-AI Collaboration: Their approach emphasizes augmenting human intelligence with AI, not replacing it.
+In short, Evolver helps businesses stay competitive by transforming how they use data, make decisions, and operate—through precision AI built by industry experts.
+
+Evolver was founded in 2024 by three recognized leaders of corporate transformation with decades of experience in professional services, technology and AI, and venture capital. Identifying a critical gap in the AI ecosystem—where enterprises remained underserved despite rapid AI advances—they assembled a cross-functional team to bridge this divide. Everyone at Evolver has a singular mission: to evolve enterprise intelligence through deep domain expertise, state-of-the-art AI, and continuous applied learning. Evolver solutions help organizations transform operations, improve competitiveness, and drive sustainable growth.
+
+Evolver offers a suite of AI-powered solutions tailored to key enterprise domains. Here's a detailed breakdown of each solution area they focus on:
+
+---
+
+### Operational Performance
+Evolver enhances business operations by integrating AI into core workflows. Their solution helps enterprises:
+- Automate routine tasks and decision-making
+- Improve efficiency across departments
+- Scale operations intelligently with minimal overhead
+- Leverage domain-specific AI agents that act like expert consultants
+
+---
+
+### Audit
+Their audit solution uses AI to:
+- Streamline audit processes and reduce manual effort
+- Identify anomalies and risks faster
+- Ensure compliance with evolving standards
+- Provide real-time insights and documentation support
+
+---
+
+### Tax
+Evolver’s AI agents assist tax professionals by:
+- Automating tax data analysis and reporting
+- Enhancing accuracy in filings and compliance
+- Reducing time spent on repetitive tasks
+- Supporting strategic tax planning with predictive insights
+
+---
+
+### Risk & Compliance
+This solution helps organizations:
+- Monitor regulatory changes and assess impact
+- Automate compliance checks and reporting
+- Detect and mitigate risks proactively
+- Maintain audit trails and transparency
+
+---
+
+### Private Capital
+For private equity and investment firms, Evolver offers:
+- AI-driven portfolio analysis and performance tracking
+- Deal sourcing and due diligence support
+- Risk modeling and scenario planning
+- Operational insights to optimize returns
+
+---
+
+### Finance
+Their finance solution empowers CFOs and finance teams to:
+- Forecast financial outcomes with precision
+- Analyze spend and revenue patterns
+- Automate reporting and reconciliation
+- Make data-driven strategic decisions
+
+---
+
+Each of these solutions is powered by **ARIA™**, Evolver’s proprietary AI platform that combines deep domain expertise with scalable intelligence. ARIA™ functions like a team of expert advisors—fast, accurate, and always learning.
+
+
+Team Members in Evolver:
+
+Name,Designation (Current),Former Designation
+Nicola Morini Bianzino,Founder & Chief Executive Officer,Global CTO and Executive Board EY
+Luis Vargas,Founder & Chief Technology Officer,VP of AI, Microsoft
+Robert Hutter,Founder & Chief Alchemist,Founder, Learn Capital
+Robert Abel,Co-Founder & Co-CEO of Tax,EY Tax Partner and Account Leader
+Mario Schlener,Co-Founder & CEO of Applied Research,Risk Consulting Service Line and Responsible AI Lead Partner, EY
+Jim Hunter,Co-Founder & Co-CEO of Tax,Global Tax and Technology Leader, EY
+Jeff Mallett,Co-Founder & VP of AI Platform,Co-Founder & CTO, Web3 Pro
+E.J. Kenney,Chief Revenue Officer,SVP SAP
+Anastasia Zolotar,Chief Product Officer of Tax,
+Francesco Varrasi,CEO of Manufacturing,
+Bas Kamphuis,CEO of Private Capital,
+Connor Roat,Senior VP of Auditing & Chief Product Officer of Finance,
+Ali Zaidi,VP - Alliances & Ecosystems / Analyst Relations,
+Mariana Vasconcelos,Product Director of Tax,
+Dhruv Chakrborty,Chief of Staff,
+Muraleekrishnan R,Managing Director Evolver India,
+Giampaolo Mugnai,Product Director of Manufacturing,
+Xiaodan Zhu,Scientific Advisory Team,
+Michael Jacobides,Scientific Advisory Team,
+Ken Seehart,GenAI Engineer,
+Josh Robin,GenAI Engineer,
+Vansh Agarwal,GenAI Engineer,
+Alan Ness,GenAI Engineer,
+Shaishav Tayde,GenAI Engineer,
+Anirudh Narsipur,GenAI Engineer,
+Vishaal Venkatesh,Learning Architect,
+Adam Hall,Learning Architect,
+Rohan Bhambhoria,Learning Architect

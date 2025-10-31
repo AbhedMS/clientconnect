@@ -1,0 +1,11 @@
+langchain-groq
+langchain-community
+langchain_core
+chromadb
+streamlit
+pandas
+uuid
+dotenv
+flask
+sentence_transformers
+beautifulsoup4

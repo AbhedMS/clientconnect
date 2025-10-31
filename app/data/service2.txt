@@ -1,0 +1,66 @@
+
+**Evolver Audit – AI-Powered Audit Intelligence**
+
+**Overview**  
+Evolver Audit is designed to revolutionize the audit profession by combining explainable AI with embedded domain expertise. It delivers unmatched quality, full transparency, and accelerated results. The platform empowers firms to elevate audit execution, unlock deeper insights, and lead the profession into its next era.
+
+---
+
+**Key Performance Metrics**
+- **0x faster intake to completion**
+- **0% explainable AI outputs, every time**
+- **70% faster audit planning cycle**
+
+---
+
+**Core Features**
+
+- **Radical Explainability**  
+  Every AI action is transparent, documented, and reproducible, ensuring compliance with auditing standards.
+
+- **Faster Insights, Deeper Coverage**  
+  Enables risk and anomaly detection at scale, surfacing issues that traditional sampling might miss.
+
+- **Continuous Compliance**  
+  PCAOB, AICPA, ISA requirements and firm-issued internal guidance are hard-coded into the process, with real-time checks for quality and alignment.
+
+- **AI-Powered End-to-End Execution**  
+  Covers the full audit lifecycle—from risk assessment to audit planning to substantive testing—with precision and oversight.
+
+- **Domain Expertise, Engineered In**  
+  Built on decades of audit knowledge, embedding professional standards and methodology into every workflow.
+
+---
+
+**Results & Differentiators**
+
+- **AI-Led Risk Identification, Auditor-Governed**  
+  ARIA delivers real-time risk assessments and audit procedures, focusing teams on key risks and responses under their oversight.
+
+- **Audit Quality by Default**  
+  Explainability, repeatability, and documentation ensure every procedure stands up to inspection.
+
+- **Scalable Across Engagements**  
+  Adaptable from complex global audits to mid-market engagements, aligning with firm methodology without added lift.
+
+- **Trusted by Design**  
+  Outputs are accurate, defensible, regulator-ready, and built on proven audit expertise.
+
+---
+
+**Demo Experiences**
+
+1. **GL Anomaly Detection for Journal Entry Testing**  
+   - ARIA analyzes every transaction to surface anomalies.  
+   - Auditor expertise refines results for 100% journal entry coverage.  
+   - Outcome: sharper risk detection, stronger audit responses, elevated audit quality.
+
+2. **Risk Assessment & Audit Plan**  
+   - ARIA unifies public and private data to deliver real-time risk assessments and audit plans.  
+   - Teams view explainable risk signals, risks of material misstatement, and related audit procedures.  
+   - Outcome: cuts planning from weeks to days while raising coverage, quality, and defensibility.
+
+---
+
+**Conclusion**  
+ARIA is redefining audit execution by seamlessly integrating human expertise with AI. It ensures quality, transparency, and speed—empowering firms to lead the future of audit.
