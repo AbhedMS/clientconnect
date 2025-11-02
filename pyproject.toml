@@ -1,0 +1,17 @@
+[project]
+name = "my-client-connect-project"
+version = "1.0.2"
+dependencies = [
+    "langchain-groq",
+    "langchain-community",
+    "langchain_core",
+    "chromadb",
+    "streamlit",
+    "pandas",
+    "uuid",
+    "dotenv",
+    "flask",
+    "sentence_transformers",
+    "beautifulsoup4",
+    "pytest"
+]

@@ -4,9 +4,9 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.exceptions import OutputParserException
 from dotenv import load_dotenv
-from utils import clean_text
+from modules.utils import clean_text
 from langchain_community.document_loaders import WebBaseLoader
-from search import MatchingServices
+from modules.search import MatchingServices
 
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")

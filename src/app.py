@@ -1,11 +1,23 @@
 from langchain_community.document_loaders import WebBaseLoader
 
-from chains import Chain
-from search import MatchingServices
-from utils import clean_text
+from modules.chains import Chain
+from modules.search import MatchingServices
+from modules.pipelines.vector_database import OrganizationPortfolio
+from modules.utils import clean_text
 from flask import Flask, render_template, request, jsonify
+import os
 
 app = Flask(__name__)
+
+CURRENT_DIR = os.path.abspath(__file__)
+ROOT_DIR = os.getcwd()
+
+organization_data = OrganizationPortfolio(os.path.join(ROOT_DIR, "data"))
+database = organization_data.initiate_vector_store()
+if database:
+    print("Database successfully initiated!")
+else:
+    print("Database NOT successfully initiated!")
 
 
 @app.route("/", methods=["GET", "POST"])
@@ -23,21 +35,16 @@ def home():
         chain = Chain()
         client_info = chain.extract_info(data)
 
-        with open("./app/data/organization_data.txt", "rb") as file:
+        with open(os.path.join(ROOT_DIR, "data/organization_data.txt"), "r", encoding="utf-8") as file:
             evolver_info = file.read()
         
-        matching_services = MatchingServices()
-        matching_services.load_all_services()
-        best_matches = matching_services.find_most_relevant_files(client_info)
+        result = organization_data.get_matching_services(client_info)
+        best_matches = result['documents'][0]
 
-        with open(f"app/data/{best_matches[0][0]}", "rb") as file:
-            service1 = file.read()
+        print("Number of documents: ", len(best_matches))
 
-        with open(f"app/data/{best_matches[1][0]}", "rb") as file:
-            service2 = file.read()
-
-        service1 = chain.sumerize_service(service1)
-        service2 = chain.sumerize_service(service2)
+        service1 = chain.sumerize_service(best_matches[0])
+        service2 = chain.sumerize_service(best_matches[1])
         services = [service1, service2]
 
         mail_content = chain.write_mail(client_info, evolver_info, services)
@@ -52,3 +59,4 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
