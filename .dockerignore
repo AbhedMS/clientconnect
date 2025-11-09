@@ -1,6 +1,6 @@
 venv
 .env
-secret_key.txt
+secret_key
 __pycache__
 .pytest_cache
 my_client_connect_project.egg-info

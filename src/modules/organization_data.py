@@ -10,6 +10,11 @@ class OrganizationPortfolio:
         self.chroma_client = chromadb.Client()
         self.data_path = Path(file_path)
 
+    def get_organization_info(self):
+        with open(os.path.join(self.data_path, "organization_data.txt"), "r", encoding="utf-8") as file:
+            organization_info = file.read()
+        return organization_info
+
     def initiate_vector_store(self):
         try:
             self.collection = self.chroma_client.create_collection(name="serices_info")
@@ -37,7 +42,13 @@ class OrganizationPortfolio:
             query_texts=[query_text],
             n_results=nr_of_services
         )
-        return result
+
+        best_matches = result['documents'][0]
+        services = []
+        for match in best_matches:
+            services.append(match)
+
+        return services
 
 
 if __name__ == "__main__":

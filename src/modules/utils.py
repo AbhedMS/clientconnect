@@ -1,7 +1,4 @@
-# Good to have file which cleans unnecessary tags, space, etc
-
-import re
-
+import re, yaml
 
 def clean_text(text):
     # Remove HTML tags
@@ -18,3 +15,12 @@ def clean_text(text):
     text = ' '.join(text.split())
     return text
 
+def final_text_cleanup(text_list):
+    processed = [txt.replace("*", "") for txt in text_list]
+    processed = [txt.replace("|", "") for txt in processed]
+    return processed
+
+def read_yaml_file(file_path):
+    with open(file_path, 'r') as file:
+        content = yaml.safe_load(file)
+    return content

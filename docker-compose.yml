@@ -1,0 +1,12 @@
+
+services:
+  web:
+    build: .
+    ports:
+      - '5000:80'
+    secrets:
+      - api_key
+
+secrets:
+  api_key:
+    file: './secret_key.txt'

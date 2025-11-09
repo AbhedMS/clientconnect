@@ -1,0 +1,45 @@
+prompts:
+
+  summarize: |
+    """
+    Surmarize below service provided by a firm. Don't helusinate and stick to facts.
+    I DON'T NEED ANY PREAMBLE. NO PREAMBLE AT ALL!
+
+    {service_details}
+
+    """
+
+  extract_information: |
+    """
+    ### SCRAPED TEXT FROM WEBSITE:
+    {page_data}
+    ### INSTRUCTION:
+    The scraped text is from a potential client page of a website.
+    Your job is to extract imformations like clients name, industry, business, products and 
+    return a summary of clients business.
+    ### I DON'T NEED ANY PREAMBLE. NO PREAMBLE AT ALL!
+    """
+
+  write_email: |
+    """
+    ### Client Data:
+    {client_details}
+
+    ### INSTRUCTION:
+    You are Sale Executive in a company called Evolver. Details of the firm Evolver is as below:
+    {evolver_details}
+
+    Your job is to write a cold email to the client mentioning what Evolver does and 
+    how it will be able to add value to client's business.
+    Also add the most relevant services that Evolver provides based on clients business: 
+    1. {service1}
+    2. {service2}
+    Do not provide a preamble.
+    ### EMAIL (NO PREAMBLE):
+
+    """
+
+  test_prompt: |
+    """
+    This is a test prompt.
+    """

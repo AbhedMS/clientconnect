@@ -10,4 +10,4 @@ flask
 sentence_transformers
 beautifulsoup4
 pytest
--e .
+gunicorn
