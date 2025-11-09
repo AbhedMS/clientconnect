@@ -9,3 +9,5 @@ dotenv
 flask
 beautifulsoup4
 gunicorn
+pytest
+-e .

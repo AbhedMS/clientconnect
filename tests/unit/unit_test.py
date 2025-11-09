@@ -11,5 +11,5 @@ def test_vectordb():
 
 def test_prompt():
     PROMPTS = read_yaml_file(os.path.join(ROOT_DIR, 'prompts.yaml'))["prompts"]
-    assert PROMPTS['test_prompt'] == "This is a test prompt."
+    assert PROMPTS['test_prompt'] == '"""\nThis is a test prompt.\n"""'
 

@@ -4,3 +4,4 @@ secret_key.txt
 __pycache__
 .pytest_cache
 my_client_connect_project.egg-info
+pyproject.toml
